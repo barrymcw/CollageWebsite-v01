@@ -2,7 +2,7 @@
   "collages": [
     {
       "id": "c001",
-      "title": "Am Sasasdasasdtrand",
+      "title": "Am Strand",
       "year": "2025",
       "description": "An exploration of oceanic memory and the geography of forgetting. Found paper ephemera, vintage atlas pages, and cyanotype fragments layered into a meditation on cartographic desire.",
       "materials": "Archival paper, cyanotype prints, vintage atlas pages, acrylic medium",
@@ -17,7 +17,7 @@
     },
     {
       "id": "c002",
-      "title": "Blatt",
+      "title": "ZBlatt 99",
       "year": "2025",
       "description": "Fragments of domesticity reassembled into something stranger. Old recipe cards, wallpaper samples, and botanical illustration offcuts form a taxonomy of the intimate everyday.",
       "materials": "Recipe cards, wallpaper samples, botanical prints, wax",
@@ -45,22 +45,7 @@
     },
     {
       "id": "c004",
-      "title": "The Herbalist's Index",
-      "year": "2025",
-      "description": "A false taxonomy of healing plants that never existed. Combining real medicinal woodcuts with invented Latin nomenclature and hand-lettered field notes.",
-      "materials": "Woodcut reproductions, handmade paper, iron gall ink, pressed plant matter",
-      "dimensions": "25 × 35 cm",
-      "image": "images/herbalist-index.jpg",
-      "tags": ["botanical", "archive", "hand-lettered", "nature"],
-      "pins": [
-        { "x": 35, "y": 30, "tag": "woodcut", "note": "C16th reproduction print" },
-        { "x": 65, "y": 65, "tag": "iron gall ink", "note": "Self-mixed from oak galls" },
-        { "x": 50, "y": 50, "tag": "pressed plant", "note": "Yarrow, collected 2023" }
-      ]
-    },
-    {
-      "id": "c005",
-      "title": "Obernetter",
+      "title": "J.B. Obernetter",
       "year": "2025",
       "description": "Cities dissolve into geometry after dark. Sourced from a collection of 1970s architecture magazines, this piece isolates the structural skeleton from its human context.",
       "materials": "Architecture magazine pages, black gesso, gold leaf, linen",
@@ -73,7 +58,7 @@
       ]
     },
     {
-      "id": "c006",
+      "id": "c005",
       "title": "Plate 15",
       "year": "2025",
       "description": "Found portraits of unknown women combined with the technical diagrams of early aircraft — a feminist archaeology of erased histories. Who flew? Who was allowed to dream of flying?",
@@ -87,7 +72,7 @@
       ]
     },
     {
-      "id": "c007",
+      "id": "c006",
       "title": "This and That",
       "year": "2025",
       "description": "Found portraits of unknown women combined with the technical diagrams of early aircraft — a feminist archaeology of erased histories. Who flew? Who was allowed to dream of flying?",
