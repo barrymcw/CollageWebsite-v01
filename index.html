@@ -180,38 +180,18 @@ body::after {
   position: absolute;
   inset: 0;
   pointer-events: none;
+}
 .card-pin-dot {
-  width: 12px; height: 12px;
+  position: absolute;
+  width: 16px; height: 16px;
   border-radius: 50%;
   background: var(--accent2);
-  border: 2px solid rgba(255,255,255,0.85);
+  border: 1.5px solid rgba(255,255,255,0.8);
   transform: translate(-50%,-50%);
   opacity: 0;
   transition: opacity 0.3s;
-  position: absolute;
-  cursor: default;
 }
-
 .gallery-card:hover .card-pin-dot { opacity: 1; }
-
-.card-pin-dot .card-pin-tooltip {
-  position: absolute;
-  left: 16px; top: 50%;
-  transform: translateY(-50%);
-  background: var(--ink);
-  color: var(--paper);
-  padding: 4px 9px;
-  font-family: var(--mono);
-  font-size: 0.58rem;
-  letter-spacing: 0.06em;
-  white-space: nowrap;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 0.15s;
-  z-index: 20;
-}
-
-.card-pin-dot:hover .card-pin-tooltip { opacity: 1; }
 
 .card-foot {
   padding: 14px 0 0;
@@ -821,9 +801,7 @@ function renderGallery() {
       <div class="card-img-wrap">
         ${imgEl(col, 'lazy')}
         <div class="card-pins">
-          ${pins.map(p => `<div class="card-pin-dot" style="left:${p.x}%;top:${p.y}%">
-  <div class="card-pin-tooltip">${p.tag}${p.note ? ` — ${p.note}` : ''}</div>
-</div>`).join('')}
+          ${pins.map(p => `<div class="card-pin-dot" style="left:${p.x}%;top:${p.y}%"></div>`).join('')}
         </div>
       </div>
       <div class="card-foot">
