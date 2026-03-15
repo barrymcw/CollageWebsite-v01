@@ -2,12 +2,12 @@
   "collages": [
     {
       "id": "c001",
-      "title": "PostcardsFromBerlin_Am Strand.jpg",
+      "title": "Am Strand",
       "year": "2025",
       "description": "An exploration of oceanic memory and the geography of forgetting. Found paper ephemera, vintage atlas pages, and cyanotype fragments layered into a meditation on cartographic desire.",
       "materials": "Archival paper, cyanotype prints, vintage atlas pages, acrylic medium",
       "dimensions": "42 × 59 cm",
-      "image": "images/Am Strand.jpg",
+      "image": "images/PostcardsFromBerlin_Am Strand.jpg",
       "tags": ["blue", "ocean", "maps", "memory"],
       "pins": [
         { "x": 28, "y": 42, "tag": "atlas fragment", "note": "1923 Pacific Ocean chart" },
