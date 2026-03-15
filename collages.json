@@ -17,12 +17,12 @@
     },
     {
       "id": "c002",
-      "title": "Domestic Archaeology",
-      "year": "2022",
+      "title": "Blatt",
+      "year": "2025",
       "description": "Fragments of domesticity reassembled into something stranger. Old recipe cards, wallpaper samples, and botanical illustration offcuts form a taxonomy of the intimate everyday.",
       "materials": "Recipe cards, wallpaper samples, botanical prints, wax",
       "dimensions": "30 × 40 cm",
-      "image": "images/domestic-archaeology.jpg",
+      "image": "images/PostcardsFromBerlin_Blatt.jpg",
       "tags": ["domestic", "botanical", "warm", "archive"],
       "pins": [
         { "x": 40, "y": 25, "tag": "recipe card", "note": "Handwritten, c.1960" },
@@ -31,12 +31,12 @@
     },
     {
       "id": "c003",
-      "title": "Velocity Studies I",
-      "year": "2024",
+      "title": "Gustav Fischer",
+      "year": "2025",
       "description": "The first in a series examining motion as memory trace. Chronophotographic influence combined with contemporary print media creates a visual stutter — the image caught between moments.",
       "materials": "Newspaper, acetate, photographic paper, spray paint",
       "dimensions": "50 × 70 cm",
-      "image": "images/velocity-studies-1.jpg",
+      "image": "images/PostcardsFromBerlin_GustavFischer.jpg",
       "tags": ["motion", "monochrome", "urban", "series"],
       "pins": [
         { "x": 22, "y": 60, "tag": "acetate layer", "note": "Three overlapping transparencies" },
@@ -46,7 +46,7 @@
     {
       "id": "c004",
       "title": "The Herbalist's Index",
-      "year": "2023",
+      "year": "2025",
       "description": "A false taxonomy of healing plants that never existed. Combining real medicinal woodcuts with invented Latin nomenclature and hand-lettered field notes.",
       "materials": "Woodcut reproductions, handmade paper, iron gall ink, pressed plant matter",
       "dimensions": "25 × 35 cm",
@@ -60,12 +60,12 @@
     },
     {
       "id": "c005",
-      "title": "Night Architecture",
-      "year": "2024",
+      "title": "Obernetter",
+      "year": "2025",
       "description": "Cities dissolve into geometry after dark. Sourced from a collection of 1970s architecture magazines, this piece isolates the structural skeleton from its human context.",
       "materials": "Architecture magazine pages, black gesso, gold leaf, linen",
       "dimensions": "60 × 80 cm",
-      "image": "images/night-architecture.jpg",
+      "image": "images/PostcardsFromBerlin_Obernetter.jpg",
       "tags": ["urban", "geometry", "monochrome", "gold"],
       "pins": [
         { "x": 45, "y": 20, "tag": "gold leaf", "note": "Applied over masked geometry" },
@@ -74,12 +74,26 @@
     },
     {
       "id": "c006",
-      "title": "Portrait of an Aviator",
-      "year": "2022",
+      "title": "Plate 15",
+      "year": "2025",
       "description": "Found portraits of unknown women combined with the technical diagrams of early aircraft — a feminist archaeology of erased histories. Who flew? Who was allowed to dream of flying?",
       "materials": "Vintage portrait photography, aircraft technical diagrams, tissue paper, shellac",
       "dimensions": "35 × 50 cm",
-      "image": "images/portrait-aviator.jpg",
+      "image": "images/PostcardsFromBerlin_Plate 15.jpg",
+      "tags": ["portrait", "archive", "history", "warm"],
+      "pins": [
+        { "x": 48, "y": 35, "tag": "found portrait", "note": "Unknown woman, c.1930s" },
+        { "x": 25, "y": 70, "tag": "technical diagram", "note": "Biplane cross-section, 1928" }
+      ]
+    }
+    {
+      "id": "c007",
+      "title": "This and That",
+      "year": "2025",
+      "description": "Found portraits of unknown women combined with the technical diagrams of early aircraft — a feminist archaeology of erased histories. Who flew? Who was allowed to dream of flying?",
+      "materials": "Vintage portrait photography, aircraft technical diagrams, tissue paper, shellac",
+      "dimensions": "35 × 50 cm",
+      "image": "images/PostcardsFromBerlin_This and That.jpg",
       "tags": ["portrait", "archive", "history", "warm"],
       "pins": [
         { "x": 48, "y": 35, "tag": "found portrait", "note": "Unknown woman, c.1930s" },
